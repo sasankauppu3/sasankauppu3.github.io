@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+img: bb.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+title: Book Buddies
+git: <a href="https://github.com/purvakamat/BookBuddies">Github</a>
+course: Hackathon Project
+description: This was implemented at HackNEU 2017. BookBuddies allows you to create a network of people to lend and borrow books. It is a social networking site for book lovers implemented using MEAN stack. All you need to do is create a profile on the website and look for the books you want to read. We show you all the people in your city who have the book and are willing to share. You can then send them a request to borrow their book. They will then get back to you if they wanna lend the book by sharing their contact information with you so. You can share your books by creating a virtual library on your profile and adding information about all the books you have. People can then see your books in their searches and request you to lend them. The library also shows you the books that you have lent and borrowed as a reminder.
 
 ---

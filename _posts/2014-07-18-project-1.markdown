@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+img: pdt.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+title: Plagiarism Detection Tool
+git: <a href="https://github.com/sasankauppu3/Plagiarism-Detection-Tool">Github</a>
+course: Managing Software Development
+description: Built and deployed a web based plagiarism system tool for comparing python submissions using Java SpringBoot, Jenkins deployed on AWS. Various Abstract syntax tree matching algorithms have been implemented, with gradient descent on the outputs of the algorithms to improve the prediction further.
 
 ---

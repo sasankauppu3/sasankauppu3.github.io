@@ -6,7 +6,7 @@ alt: image-alt
 title: Stock market trend predictor
 git: <a href="https://github.com/sasankauppu3/AI-Stock-market-trend-predictor">Github</a>
 course: Artificial Intelligence
-description: Built a tool to predict the sign of stock change using different Machine Learning methods with Keras and SK-learn, which gave a maximum accuracy of 89%(LSTM).
+description: <br>- Built a tool to predict the sign of stock change using Time-Lag method and Machine Learning algorithms with Keras and SK-learn, which gave a maximum accuracy of 89%(LSTM).
 
 ---
 

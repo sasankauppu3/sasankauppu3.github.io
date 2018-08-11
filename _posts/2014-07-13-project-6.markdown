@@ -6,6 +6,6 @@ alt: image-alt
 title: AI Pac-Man
 git: <a href="https://github.com/sasankauppu3/">Github</a>
 course: Artificial Intelligence
-description: Incorporated different Artificial Intelligent methods on the Pac-Man game to make the agent near rational in a given game environment using Python on the Berkley course project.
+description: <br>Incorporated different Artificial Intelligent methods on the Pac-Man using Python on the Berkley course project. Different phases in the project are discussed as below:<br>- Implemented different Search algorithms(such as DFS, BFS, A* heuristics etc) to help Pacman navigate in the maze.<br>- Used adversarial and stochastic search problems to build minimax and expectimax algorithms, as well as designing evaluation functions for Pacman to identify ghosts.<br>- Built model-based and model-free reinforcement learning algorithms along with Probabilistic inference in a hidden Markov model.<br>- Implemented standard machine learning classification algorithms such as Naive Bayes, Perceptron to implement a behavioral cloning Pacman agent.
 
 ---

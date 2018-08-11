@@ -107,8 +107,13 @@ header .intro-text .name {
 
 .skill-logo-img {
     margin: 1rem 2.5rem;
-    height: 50px;
+    height: 40px;
   }
+
+.exp-text{
+    font-size: 1.1em;
+    font-weight: 400;
+}
 
 .ex-logo-img {
     margin: 1rem 2.5rem;
@@ -419,6 +424,10 @@ footer .footer-below {
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+}
+
+.modal-descr{
+    text-align: left;
 }
 
 .portfolio-modal .modal-content h2 {

@@ -39,10 +39,10 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: https://github.com/sasankauppu3
   - title: linkedin
     url: https://www.linkedin.com/in/sasankauppu/
+  - title: github
+    url: https://github.com/sasankauppu3
   - title: twitter
     url: https://twitter.com/sasanka_uppu
   - title: facebook

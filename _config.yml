@@ -1,11 +1,11 @@
 # Site settings
-title: Veera Venkata Sasanka Uppu
+title: Sasanka Uppu
 email: vvsasanka.uppu@gmail.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://sasankauppu3.github.io
+description: "Veera Venkata Sasanka Uppu. Software Developer - Data Science - Data Engineer - Web Developer - Python - Scala - Java - MEAN"
 keywords: "your keywords, separated by commas"
 skills: "Software Developer - Data Science - Data Engineer - Web Developer"
-meta_author: LastName FirstName
+meta_author: Uppu Sasanka
 
 # Google webmaster tools
 google_verify:
@@ -50,10 +50,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Boston, MA 02128
+  - line: Boston, Massachusetts 02128
 
 # Credits content
-credits: 'A jekyll theme, created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'A jekyll theme, <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown

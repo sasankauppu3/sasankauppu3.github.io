@@ -4,7 +4,7 @@ email: vvsasanka.uppu@gmail.com
 url: https://example.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Data Science - Web Developer - Backend Stack"
+skills: "Software Developer - Data Science - Data Engineer - Web Developer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -50,8 +50,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 10 Parker Hill
-  - line: Boston, MA 02120
+  - line: Boston, MA 02128
 
 # Credits content
 credits: 'A jekyll theme, created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
